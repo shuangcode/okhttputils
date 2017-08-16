@@ -1,7 +1,7 @@
 # okhttp-utils
 
 # 声明：
-   项目中的代码是基于[张鸿洋](https://github.com/hongyangAndroid/okhttputils)的基础上。
+   项目中的代码是基于[张鸿洋](https://github.com/hongyangAndroid/okhttputils)的基础之上，
    目的是给本人学习之用。
 
 
