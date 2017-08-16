@@ -1,5 +1,10 @@
 # okhttp-utils
 
+# 声明：
+   项目中的代码是基于[张鸿洋](https://github.com/hongyangAndroid/okhttputils)的基础上。
+   目的是给本人学习之用。
+
+
 >由于个人原因，现已停止维护。
 
 对okhttp的封装类，okhttp见：[https://github.com/square/okhttp](https://github.com/square/okhttp).
